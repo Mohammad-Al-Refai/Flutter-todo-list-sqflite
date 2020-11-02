@@ -4,6 +4,7 @@
 -Add Row
 -Delete Row
 -Update Row
+-fetch Rows
 ```
 # used:
 ```bash
